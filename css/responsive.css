@@ -1,0 +1,207 @@
+@media screen and (max-width: 1200px){
+    .phone-mockup{
+        max-width: 300px;
+    }
+}
+@media screen and (max-width: 1174px){
+    .hero-content h1{
+        font-size: 44px;
+    }
+    .hero-box{
+        width: 100%;
+    }
+    .hero-box h2{
+        font-size: 30px;
+    }
+    .section-title h2{
+        font-size: 40px;
+    }
+    .trade-main{
+        flex-direction: column;
+    }
+    .trade-box{
+        width: 100%;
+    }
+    .chart-title h2{
+        font-size: 40px;
+    }
+
+}
+@media screen and (max-width: 992px){
+    .frame{
+        opacity: 0;
+    }
+    .get-start{
+        background: #0C2780;
+        border-radius: 30px;
+    }
+    .get-content{
+        width: 60%;
+        left: 30px;
+    }
+    .get-content h2{
+        font-size: 30px;
+    }
+    .get-content p{
+        font-size: 16px;
+    }
+    .get-content a{
+        display: block;
+    }
+    .group-btn{
+        max-width: 250px;
+    }
+    .get-content a{
+        font-size: 14px;
+        margin-bottom: 20px;
+        padding: 12px 30px;
+    }
+    .phone-mockup{
+        top:50%;
+        transform: translateY(-50%);
+        max-width: 250px;
+    }
+}
+@media screen and (max-width: 821px){
+    section.hero.section-padding {
+        align-items: center;
+    }
+    .hero{
+        height: 80vh;
+    }
+    .hero-box ul li img {
+        width: 100px;
+    }
+    .hero-box p{
+        font-size: 16px;
+    }
+    .section-padding{
+        padding: 50px 0;
+    }
+    .hero-content h1{
+        font-size: 40px;
+    }
+    .section-title h2{
+        font-size: 35px;
+    }
+    .feature-box{
+        border: none;
+    }
+    .chart-img img {
+        width: 100%;
+        margin-top: -187px;
+    }
+    .chart-title h2 {
+        font-size: 30px;
+    }
+    .chart-main{
+        width: 100%;
+    }
+
+}
+
+@media screen and (max-width: 768px){
+    
+    .get-content{
+        text-align: center;
+        width: 90%;
+        padding: 40px;
+        position: relative;
+    }
+    .group-btn{
+        margin: 0 auto;
+    }
+    .frame{
+        display: none;
+    }
+    .get-content{
+        transform: translateY(0%);
+    }
+    .phone-mockup{
+        position: relative;
+        left: 50%;
+        transform: translateY(0%);
+        transform: translateX(-50%);
+    }
+    .get-start{
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    section.hero.section-padding {
+        align-items: start;
+    }
+    .hero{
+        height: 80vh;
+    }
+    .hero-content h1 {
+        padding-top: 60px;
+        font-size: 30px;
+    }
+    .hero-box{
+        padding: 30px 20px;
+        margin-top: -200px;
+    }
+    .section-title h2{
+        font-size: 30px;
+    }
+    .section-title{
+        margin-bottom: 30px;
+    }
+    .feature-box img {
+        width: 100px;
+    }
+    .trading-view{
+        margin-top: 50px;
+    }
+    .trading-view{
+        padding:30px 20px ;
+    }
+    .trade-fetaures-box{
+        flex-direction: column;
+    }
+    .trade-fetaures-content{
+        width: 100%;
+        padding-left: 0;
+        padding-top: 10px;
+    }
+    .trade-fetaures-img{
+        width: 100%;
+        text-align: left;
+    }
+    .chart-img{
+        width: 100%;
+    }
+    .chart-title{
+        width: 100%;
+    }
+    .padd-30{
+        padding-left: 0;
+    }
+    .padd-60{
+        padding-left: 0;
+    }
+    .step-border{
+        padding: 30px 20px;
+    }
+    .accordion-item-header{
+        text-align: left;
+    }
+    .appstore{
+       
+    }
+    .appstore li{
+        width: 33%;
+    }
+    .appstore li img{
+        width: 100%;
+    }
+    .appstore li {
+        margin: 0 3px;
+    }
+    .cta-box{
+        padding:30px 20px;
+    }
+    
+}
